@@ -1,0 +1,11 @@
+.deps
+.libs
+.o
+.lo
+config.log
+config.status
+autom4te.cache
+PWD
+Makefile
+libtool
+
